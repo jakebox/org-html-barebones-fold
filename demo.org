@@ -1,0 +1,23 @@
+#+TITLE: Org HTML Barebones Fold Demo
+#+SETUPFILE: org-html-barebones-fold.setup
+#+OPTIONS: toc:nil author:nil html-postamble:nil H:10 num:nil
+
+* Heading for Top Level Node 1
+Text directly under Node 1
+** Heading for Sub Node Level Node 1.1
+This is text directly under Sub Node Level Node 1.1
+*** Heading for Sub Sub Node Level Node 1.1.1
+This is text under Sub Sub Node Level Node 1.1.1
+**** Heading for Sub Sub Node Level Node 1.1.1.1
+This is text under Sub Sub Node Level Node 1.1.1.1
+*** Heading for Sub Sub Node Level Node 1.1.2
+** Heading for Sub Node Level Node 1.2
+This is text directly under Sub Node Level Node 1.2
+*** Heading for Sub Sub Node Level Node 1.2.1
+This is text under Sub Sub Node Level Node 1.2.1
+**** Heading for Sub Sub Node Level Node 1.1.1.1
+This is text under Sub Sub Node Level Node 1.1.1.1
+*** Heading for Sub Sub Node Level Node 1.1.2
+* Heading for Top Level Node 2
+** Heading for Sub Node Level Node 2.1
+** Heading for Sub Node Level Node 2.2
