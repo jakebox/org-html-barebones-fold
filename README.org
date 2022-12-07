@@ -2,7 +2,7 @@
 
 org-html-barebones-fold is a simplification of the incredible work of [[https://github.com/fniessen][fniessen]], particularly his ~hideshow.js~ from https://github.com/fniessen/org-html-themes.
 
-Per a comissioned request, I have slimmed down the stylesheets, JS codebase, and adjusted some functionality to try to achieve a very simple HTML export setupfile for org-exported HTML.
+Thanks to a suggestion from William Jarrold, I have slimmed down the stylesheets, JS codebase, and adjusted some functionality to try to achieve a very simple HTML export setupfile for org-exported HTML.
 
 It's a great canvas for future decoration and expansion, as the folding and unfolding functionality is fully implemented by ~hideshow.js~ (again by fniessen).
 
